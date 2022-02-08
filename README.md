@@ -1,8 +1,8 @@
 <p align="centre">
-<img src="images/beer_cap.jpg" width="80% style="max-width:100%;">
+<img src="images/bear_cap.jpg" width="80% style="max-width:100%;">
 </p>
 <h1>Scaffold for FIP</h1>
-The scaffold of the online craft beer brand, Thick'r Lawn, designed with html and css3 in mind. 
+The scaffold of the online craft beer brand, two brand mashups (undetermined), designed with html and css3 in mind. 
 This is in-developement and only the preview of the general layout is shown here. 
 
 -----------------------------------------------------------
