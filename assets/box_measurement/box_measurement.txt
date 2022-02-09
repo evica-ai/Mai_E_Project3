@@ -1,0 +1,151 @@
+
+Container {
+	width: 980px
+
+
+<HEADER>
+
+
+Logo box {	
+	width: 150px
+	height: 110px
+
+Main Nav box {	
+	width: 806px
+	height: 110px
+    font-family: "Leadue Spartan", sans-serif;
+
+
+<HOMEPAGE>
+
+
+Promotion Section box {
+	width: 1447px
+
+Promotion Image box {
+	width: 450px
+	height: 600px
+
+Promotion Text box {
+	width: 620px
+	height: 500px
+    font-family: "Leadue Spartan", sans-serif;
+
+Promotion Text Button box {
+	width: 300px
+	height: 72px
+    font-family: "Leadue Spartan", sans-serif;
+
+Introduction Button boxes {
+	width: 200px
+	height: 72px
+    font-family: "Libre Baskerville", sans-serif;
+
+About Us box {
+	width: 300px
+	height: 300px
+
+What We Do box {
+	width: 300px
+	height: 300px
+
+How We Work box {
+	width: 300px
+	height: 300px
+
+Product Section Buttons box {
+	width: 200px
+	height: 72px
+    font-family: "Libre Baskerville", sans-serif;
+
+Product1 Image1 box {
+	width: 350px
+	height: 450px
+
+Product1 Image2 box {
+	width: 350px
+	height: 161px
+
+Product1 Description box {
+	width: 350px
+	height: 161px
+    font-family: "Libre Baskerville", sans-serif;
+
+Product2 Image1 box {
+	width: 350px
+	height: 161px
+
+Product2 Image2 box {
+	width: 350px
+	height:450px
+
+Product2 Description box {
+	width: 350px
+	height: 161px
+    font-family: "Libre Baskerville", sans-serif;
+
+<CONTACT US PAGE>
+
+
+First Name box {
+	width: 450px
+	height: 40px
+
+Last Name box {
+	width: 450px
+	height: 40px
+
+Email Address Input box {
+	width: 450px
+	height: 40px
+
+Password box {
+	width: 450px
+	height: 40px
+
+Phone Number Input box {
+	width: 450px
+	height: 40px
+
+Comments box {
+	width: 450px
+	height: 295px
+
+Form Section Button box {
+	width: 200px
+	height: 72px
+
+Address box {
+	width: 450px
+	height: 700px
+
+
+<FOOTER>
+
+
+Footer box {
+	width: 1447px
+
+Logo box {
+	width: 150px
+	height: 110px
+
+Footer Address box {
+	width: 300px
+	height: 150px
+
+Social Media Icons box {
+	width: 300px
+	height: 100px
+
+Footer Nav box {
+	width: 300px
+	height: 416px
+
+
+<BOTTOM BAR>
+
+
+Bottom Bar box {
+	width: 1447px
+	height: 50px
